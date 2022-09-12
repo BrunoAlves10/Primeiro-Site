@@ -1,0 +1,60 @@
+body{
+    background-color: darkslategray;
+    color:lightslategray;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    list-style-type: center;
+    align-items: center;
+    padding: 30px;
+}
+a {
+    color: burlywood;
+    text-decoration: none;
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid green
+}
+.imagem {
+    text-align: center;
+}
+
+
+
+.titulo {
+    color: greenyellow;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.p1 {
+    color: lightslategray;
+    text-align: center;
+    font-size: medium;
+}
+
+
+h2 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+
+.p2 {
+    color: lightslategray;
+    text-align:center;
+    font-size: medium;
+}
